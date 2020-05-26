@@ -1,0 +1,166 @@
+#headerlogo{
+   text-align:  center;
+   background-color: #131339;
+   opacity: 0.8;
+}
+#logoimage{
+   opacity: 1.0;
+}
+#hr2{
+   text-align:  center;
+   background-color: #131339;
+   opacity: 0.8;
+}
+a{
+   color: white;
+   font-size: 16px;
+}
+a:hover{
+   color: #ff9900;
+}
+#navbutton{
+   background-color: #ff9900;
+   padding: 7px;
+}
+#navbook{
+   color: white;
+   font-size: 16px;
+}
+#headerline{
+   width: 100%;
+   background-color: #ff9900;
+   padding: 0%;
+   
+}
+#hr3{
+   text-align:  center;
+   color: white;
+}
+#headertoptext{
+   font-size: 50px;
+}
+#headermidtext{
+   color: white;
+   font-size: 18px;
+}
+#headerbook{
+   background-color: #ff9900;
+   padding: 4px;
+}
+#hr4{
+   text-align:  center;
+   color: white;
+   font-size: 18px;
+}
+#bookingform{
+   background-color: white;
+   padding: 20px;
+
+}
+input{
+   height: 80px;
+}
+.submitbutton{
+   width: 100%;
+   background-color: #ff9900;
+   color: white;
+   height: 80px;
+}
+#row1background{
+   background-color: white;
+}
+#row1{
+   text-align:  center;
+   background-color: white;
+}
+#foot{
+   background-position:  bottom;
+   background-repeat:  repeat-y;
+}
+#footerlogo{
+   text-align:  center;
+   background-color: #131339;
+   opacity: 0.3;
+}
+#fr2{
+   text-align:  center;
+   background-color: #131339;
+   opacity: 0.3;
+   color: white;
+}
+#fr3{
+   text-align:  center;
+   background-color: #131339;
+   opacity: 0.3;
+   color: white;
+}
+#rr1{
+   background-color: #131339;
+   color: white;
+}
+#rre{
+   background-color: white;
+}
+#roomdesh{
+   text-align:  center;
+}
+#roominc{
+   padding-left: 100px;
+   color: #ff9900;
+}
+.submitroom{
+   width: 100%;
+   background-color: #ff9900;
+   color: white;
+   height: 50px;
+}
+#formboder{
+   background-color: #131339;
+}
+#rate{
+   font-size: 30px;
+   color: #ff9900;
+   padding-left: 100px;
+}
+#trb{
+   background-color: #131339;
+   color: white;
+}
+#indexsldeback{
+   background-color: #131339;
+}
+#br5{
+   text-align:  center;
+}
+#brd5{
+   text-align:  center;
+}
+#br5i{
+   font-size: 80px;
+   color: #ff9900
+}
+#br6{
+   background-color: #131339;
+   color: white;
+   text-align:  center;
+}
+#br6r{
+   padding: 50px;
+}
+#br6image{
+   width: 90%;
+   text-align:  center;
+}
+#br6items{
+   color: #ff9900;
+   font-size: 40px;
+}
+.vacancybutton{
+   width: 100%;
+   background-color: #ff9900;
+   color: white;
+   height: 50px;
+}
+#cusbr1{
+   text-align:  center;
+}
